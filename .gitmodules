@@ -1,0 +1,3 @@
+[submodule "src/cdn"]
+	path = src/cdn
+	url = https://github.com/Angelwang51/cdn.git
